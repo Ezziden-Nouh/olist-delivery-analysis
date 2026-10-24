@@ -34,7 +34,7 @@ Find out how late deliveries affect customer reviews, and where the problem come
 
 ## Files
 
-- `sql/01_explore.sql`: first look at the data
-- `sql/02_clean.sql`: cleaning
-- `sql/03_analysis.sql`: analysis
-- `olist_delivery.pbix`: Power BI report
+- `01_explore.sql`: first look at the data
+- `02_clean.sql`: cleaning
+- `03_analysis.sql`: analysis
+- `list_delivery.pbix`: Power BI report
